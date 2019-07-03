@@ -1,3 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React + Redux tutorial App.
 
 ![Farmers Market Finder Demo](demo/robofriendsdemo.gif)
